@@ -1,0 +1,135 @@
+{
+    "success":1,
+    "results":[{
+         "bwin_id":"11367603",
+         "id":"3378752",
+         "sport_id":"13",
+         "time":"1617019200",
+         "time_status":"1",
+         "league":{
+                 "id":"9232",
+                 "name":"Challenger Marbella",
+                 "cc":null},
+                 "home":{
+                 "id":"47329",
+                 "name":"Joao Domingues",
+                 "image_id":0,"cc":"pt"
+              },
+ 
+         "away":{
+                 "id":"2919",
+                 "name":"Alessandro Giannessi",
+                 "image_id":0,"cc":"it"
+                },
+ 
+         "ss":"3-6,3-3",
+         "points":"30-40",
+         "playing_indicator":"1,0",
+         "stats":{
+                 "aces":["1","1"],
+                 "double_faults":["0","0"],
+                 "win_1st_serve":["53","79"],
+                 "break_point_conversions":["20","50"]
+             },
+ 
+         "events":[
+                 {"id":"76844106","text":"Game 1 - Alessandro Giannessi - holds to 40"},
+                 {"id":"76844277","text":"Game 2 - Joao Domingues - holds to 40"},
+                 {"id":"76844370","text":"Game 3 - Alessandro Giannessi - holds to 40"},
+                 {"id":"76844589","text":"Game 4 - Joao Domingues - holds to 40"},
+                 {"id":"76844662","text":"Game 5 - Alessandro Giannessi - holds to love"},
+                 {"id":"76844762","text":"Game 6 - Alessandro Giannessi - breaks to 15"},
+                 {"id":"76844878","text":"Game 7 - Joao Domingues - breaks to 30"},
+                 {"id":"76845014","text":"Game 8 - Alessandro Giannessi - breaks to 15"},
+                 {"id":"76845101","text":"Game 9 - Alessandro Giannessi - holds to 15"},
+                 {"id":"76845288","text":"Game 10 - Joao Domingues - holds to 30"},
+                 {"id":"76845414","text":"Game 11 - Alessandro Giannessi - holds to 30"},
+                 {"id":"76845527","text":"Game 12 - Joao Domingues - holds to 30"},
+                 {"id":"76845653","text":"Game 13 - Alessandro Giannessi - holds to 15"},
+                 {"id":"76845715","text":"Game 14 - Joao Domingues - holds to 15"},
+                 {"id":"76845804","text":"Game 15 - Alessandro Giannessi - holds to love"}
+              ],
+ 
+         "scores":{
+                 "1":{"home":"3","away":"6"},
+                 "2":{"home":"3","away":"3"}
+              },
+ 
+         "extra":{
+                 "home_pos":"188",
+                 "away_pos":"169",
+                 "bestofsets":"3",
+                 "stadium_data":{
+                             "id":"1729",
+                             "name":"Court 1",
+                             "city":"Marbella",
+                             "country":"Spain",
+                             "capacity":null,
+                             "googlecoords":null
+                             },
+ 
+                 "round":"25"
+             },
+ 
+         "matching_dir":"1"
+           },
+ 
+           {
+         "bwin_id":"11367604",
+         "id":"3378751",
+         "sport_id":"13",
+         "time":"1617021300",
+         "time_status":"1",
+         "league":{
+                 "id":"9232",
+                 "name":"Challenger Marbella",
+                 "cc":null
+              },
+ 
+         "home":{"id":"2037","name":"Andrey Kuznetsov","image_id":0,"cc":"ru"},
+         "away":{"id":"2404","name":"Pedro Sousa","image_id":0,"cc":"pt"},
+         "ss":"3-3",
+         "points":"A-40",
+         "playing_indicator":"1,0",
+         "stats":{
+                 "aces":["1","0"],
+                 "double_faults":["1","0"],
+                 "win_1st_serve":["52","60"],
+                 "break_point_conversions":["100","25"]
+             },
+ 
+         "events":[
+                 {"id":"76845036","text":"Game 1 - Andrey Kuznetsov - holds to 15"},
+                 {"id":"76845108","text":"Game 2 - Andrey Kuznetsov - breaks to love"},
+                 {"id":"76845195","text":"Game 3 - Pedro Sousa - breaks to 15"},
+                 {"id":"76845274","text":"Game 4 - Pedro Sousa - holds to love"},
+                 {"id":"76845448","text":"Game 5 - Andrey Kuznetsov - holds to 40"},
+                 {"id":"76845608","text":"Game 6 - Pedro Sousa - holds to 30"}
+              ],
+ 
+         "scores":{
+                 "1":{"home":"3","away":"3"}
+              },
+ 
+         "extra":{
+                 "home_pos":"478",
+                 "away_pos":"111",
+                 "bestofsets":"3",
+                 "stadium_data":{
+                             "id":"57732",
+                             "name":"Estadio Manolo Santana",
+                             "city":"Marbella",
+                             "country":"Spain",
+                             "capacity":null,
+                             "googlecoords":null
+                         },
+ 
+                 "round":"25"
+ 
+             },
+ 
+         "matching_dir":"1"
+ 
+           }
+         ]
+ }
